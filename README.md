@@ -1,2 +1,2 @@
-# SpringMVCWithoutDB
-SpringMVCWithoutDB
+# SpringMVCDemoWithoutDB
+SpringMVCDemoWithoutDB
