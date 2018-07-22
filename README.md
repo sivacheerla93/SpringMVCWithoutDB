@@ -1,2 +1,1 @@
-# SpringMVCDemoWithoutDB
-SpringMVCDemoWithoutDB
+# Spring MVC Demo Without DB
